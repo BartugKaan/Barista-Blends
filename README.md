@@ -10,6 +10,9 @@ Barista Blends is a dedicated educational coffee shop simulation that let the pl
 ## Gameplay 
 In this game, the player must learn the preparation methods for the coffees listed in the menu and the equipment used. The player needs to fulfill the orders given by the customers within the given time frame and prepare also deliver the order accurately before the time runs out. Also, in this game, the player can learn to prepare coffee using various equipment such as the espresso machine, espresso coffee grinder, filter coffee machine, hot water machine, milk steamer, and milk foam machine.
 
+## Links
+https://bartugkaan.itch.io/barista-blends
+
 ## Media
 ![equipments](https://github.com/user-attachments/assets/9cc535ba-7cab-4f9f-b8c4-82cbf237f763)
 ![carOrder](https://github.com/user-attachments/assets/96d65675-268c-4a70-b761-842a7750a27f)
